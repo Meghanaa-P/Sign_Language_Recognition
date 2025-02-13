@@ -1,0 +1,30 @@
+0 Angry
+1 Bad
+2 Family
+3 Food
+4 Friend
+5 Go
+6 Good
+7 Goodbye
+8 Happy
+9 Hello
+10 Help
+11 How
+12 Love
+13 Name
+14 Nice to meet you
+15 No
+16 Please
+17 Sad
+18 Sorry
+19 Stop
+20 Thank you
+21 Want
+22 Washroom
+23 Water
+24 What
+25 When
+26 Where
+27 Who
+28 Why
+29 Yes
