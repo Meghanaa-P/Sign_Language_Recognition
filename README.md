@@ -57,6 +57,23 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Data Folder Structure
+```
+Data/
+├── Water/
+│   ├── Image_1.jpg
+│   ├── Image_2.jpg
+│   └── ...
+├── Rock/
+│   ├── Image_1.jpg
+│   ├── Image_2.jpg
+│   └── ...
+└── Paper/
+    ├── Image_1.jpg
+    ├── Image_2.jpg
+    └── ...
+```
+
 ## 🎯 How to Use
 
 1. Open the Streamlit app.
