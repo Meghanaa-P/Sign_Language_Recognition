@@ -38,6 +38,8 @@ This project is a **real-time sign language recognition system** that uses a web
 
 ## 🛠 Installation & Setup
 
+### PYTHON 3.10.0 : https://www.python.org/downloads/release/python-3100/
+
 ### 1️⃣ Clone the Repository
 
 ```bash
