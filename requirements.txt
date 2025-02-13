@@ -1,8 +1,8 @@
-streamlit
-opencv-python
-numpy
-pandas
-matplotlib
-tensorflow
-keras
-cvzone
+streamlit==1.41.1
+opencv-python==4.11.0.86
+numpy== 1.24.3
+pandas==2.2.3
+matplotlib== 3.10.0
+tensorflow==2.13.0
+keras==2.13.1
+cvzone== 1.6.1
