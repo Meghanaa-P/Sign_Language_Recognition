@@ -27,13 +27,13 @@ This project is a **real-time sign language recognition system** that uses a web
 
 ```
 ├── Project Root
-│   ├── dataset.h5                # Trained Model
-│   ├── labels.txt                 # Gesture Labels
-│   ├── train.csv                   # Sentence Mapping Data
-│   ├── app.py                      # Streamlit App
-│   ├── requirements.txt           # Dependencies
-│   ├── README.md                  # Project Documentation
-│   └── images/                     # Example Images
+│   ├── dataset.h5                         # Trained Model
+│   ├── labels.txt                         # Gesture Labels
+│   ├── sentence.csv                       # Sentence Mapping Data
+│   ├── Sign_Language_Recognition.py       # Streamlit App
+│   ├── requirements.txt                   # Dependencies
+│   ├── README.md                          # Project Documentation
+│   └── images/                            # Example Images
 ```
 
 ## 🛠 Installation & Setup
